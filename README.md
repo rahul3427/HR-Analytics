@@ -1,1 +1,3 @@
-# HR-Analytics
+📊 HR Analytics Dashboard: Analyzing Employee Attrition
+
+Welcome to the HR Analytics Dashboard project! Dive into a comprehensive analysis of employee attrition, where we leverage data-driven insights to understand and mitigate workforce turnover. This interactive dashboard offers a detailed examination of various factors influencing attrition rates, including demographics, job roles, performance metrics, and employee satisfaction indicators. Gain valuable insights into patterns, trends, and potential risk factors contributing to attrition, empowering organizations to make informed decisions and implement targeted retention strategies. Join us in optimizing workforce management and fostering a productive and engaged work environment!
